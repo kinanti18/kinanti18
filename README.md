@@ -33,6 +33,8 @@ Hi, Welcome to My Portofolio. I am a Fresh Graduate of Informatics with passion 
 | To Do App | Web Development | Building To Do App with Python & Streamlit| [Repository](https://github.com/kinanti18/app1-to-do-app)|
 | Showcase Website | Web Development | Building Showcase Website with Python & Streamlit| [Repository](https://github.com/kinanti18/app2-showcase-website)|
 | Generate PDF Documents | Python | Generate PDF Documents Using Python | [Repository](https://github.com/kinanti18/app3-pdf-template)|
+| Generate PDF Invoices from Excel Documents | Python | Generate Invoices | [Repository](https://github.com/kinanti18/app4-invoice-generation)|
+
 
 
 
