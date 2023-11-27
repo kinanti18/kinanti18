@@ -2,6 +2,7 @@
 <h1 align="center">Hi 👋, I'm Anastasia Kinanti Putri</h1>
 <h3 align="center">Python | Data Science | AI & ML | Web Development</h3>
 Hi, Welcome to My Portofolio. I am a Fresh Graduate of Informatics with passion in technology, especially for Python, Data Science, AI/ML/DL, and Web Development. I love writing, painting, reading books, and also listen to the music to spend my spare time. And feel happy because those stuff can reach by  'technology'. By working in the Technology Industry, I always tries to find out of the box idea. Currently, I am working on my portfolio. Also, I am still and counting to learn and make a new journey and to be a better Kinan each day.
+<br>
 
 🔗 &nbsp;**Connect with me**
 <p align="left">
