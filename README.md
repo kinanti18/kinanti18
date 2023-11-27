@@ -30,6 +30,7 @@ Hi, Welcome to My Portofolio. I am a Fresh Graduate of Informatics with passion 
 ## Project That I've Builded and Done.
 | Project | Category | Description | Link |
 | --- | --- | --- | --- |
-| To Do App | Web Development | Building To Do App with Python & Streamlit| [Repository](https://github.com/adrianuscharlie/react-companyprofile-JPS)|
+| To Do App | Web Development | Building To Do App with Python & Streamlit| [Repository](https://github.com/kinanti18/app1-to-do-app/tree/master)|
+
 
 
