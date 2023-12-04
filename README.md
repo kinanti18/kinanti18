@@ -35,7 +35,7 @@ Hi, Welcome to My Portofolio. I am a Fresh Graduate of Informatics with passion 
 | Generate PDF Documents | Python | Generate PDF Documents Using Python | [Repository](https://github.com/kinanti18/app3-pdf-template)|
 | Generate PDF Invoices from Excel Documents | Python | Generate Invoices | [Repository](https://github.com/kinanti18/app4-invoice-generation)|
 | Building Daily News Digest | Python | News API Email  | [Repository](https://github.com/kinanti18/app5-news-api-email)|
-
+| Build a Historical Weather Data API  | Python | Weather API  | [Repository](https://github.com/kinanti18/app6-your-weather-api)|
 
 
 
