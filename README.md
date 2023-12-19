@@ -36,7 +36,7 @@ Hi, Welcome to My Portofolio. I am a Fresh Graduate of Informatics with passion 
 | 4 | Generate PDF Invoices from Excel Documents | Python | Generate Invoices | [Repository](https://github.com/kinanti18/app4-invoice-generation)|
 | 5 | Building Daily News Digest | Python | News API Email  | [Repository](https://github.com/kinanti18/app5-news-api-email)|
 | 6 | Build a Historical Weather Data API  | Python | Weather API  | [Repository](https://github.com/kinanti18/app6-your-weather-api)|
-| 7 | Natural Language Processing of Books | Python | Book Analysis  | [Repository]((https://github.com/kinanti18/app8-book-analysis)|
+| 7 | Natural Language Processing of Books | Python | Book Analysis  | [Repository](https://github.com/kinanti18/app8-book-analysis)|
 | 8 | Build a Webcam Monitoring Email Alert App | Python | Webcam Monitoring | [Repository](https://github.com/kinanti18/app9-email-webcam-detection)|
 
 
