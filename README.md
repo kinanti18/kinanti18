@@ -28,15 +28,15 @@ Hi, Welcome to My Portofolio. I am a Fresh Graduate of Informatics with passion 
 </p>
 
 ## Project That I've Builded and Done.
-| Project | Category | Description | Link |
-| --- | --- | --- | --- |
-| To Do App | Web Development | Building To Do App with Python & Streamlit| [Repository](https://github.com/kinanti18/app1-to-do-app)|
-| Showcase Website | Web Development | Building Showcase Website with Python & Streamlit| [Repository](https://github.com/kinanti18/app2-showcase-website)|
-| Generate PDF Documents | Python | Generate PDF Documents Using Python | [Repository](https://github.com/kinanti18/app3-pdf-template)|
-| Generate PDF Invoices from Excel Documents | Python | Generate Invoices | [Repository](https://github.com/kinanti18/app4-invoice-generation)|
-| Building Daily News Digest | Python | News API Email  | [Repository](https://github.com/kinanti18/app5-news-api-email)|
-| Build a Historical Weather Data API  | Python | Weather API  | [Repository](https://github.com/kinanti18/app6-your-weather-api)|
-| Build a Webcam Monitoring Email Alert App | Python | Webcam Monitoring | [Repository](https://github.com/kinanti18/app9-email-webcam-detection)|
+| No | Project | Category | Description | Link |
+| --- |  --- | --- | --- | --- |
+| 1 | To Do App | Web Development | Building To Do App with Python & Streamlit| [Repository](https://github.com/kinanti18/app1-to-do-app)|
+| 2 | Showcase Website | Web Development | Building Showcase Website with Python & Streamlit| [Repository](https://github.com/kinanti18/app2-showcase-website)|
+| 3 | Generate PDF Documents | Python | Generate PDF Documents Using Python | [Repository](https://github.com/kinanti18/app3-pdf-template)|
+| 4 | Generate PDF Invoices from Excel Documents | Python | Generate Invoices | [Repository](https://github.com/kinanti18/app4-invoice-generation)|
+| 5 | Building Daily News Digest | Python | News API Email  | [Repository](https://github.com/kinanti18/app5-news-api-email)|
+| 6 | Build a Historical Weather Data API  | Python | Weather API  | [Repository](https://github.com/kinanti18/app6-your-weather-api)|
+| 7 | Build a Webcam Monitoring Email Alert App | Python | Webcam Monitoring | [Repository](https://github.com/kinanti18/app9-email-webcam-detection)|
 
 
 
