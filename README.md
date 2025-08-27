@@ -44,8 +44,21 @@ Hi, Welcome to My Portofolio. I am a Fresh Graduate of Informatics with passion 
 | 10 | Build Hospital Management System | PHP | Management System | [Repository](https://github.com/kinanti18/HospitalManagementSystem)|
 | 11 | Build a Hotel Booking App | Python | OOP Style | [Repository](https://github.com/kinanti18/app11-hotel-booking.git)|
 
-
-
+## Bootcamps, Courses, Certifications & Additional Experience
+| No | Name | Category | Description | Link |
+| --- |  --- | --- | --- | --- |
+| 1 | JLPT N3 | Certifications | Japanese Language Proficiency Test | [Repository](https://drive.google.com/file/d/1xb-4busaFN1fe04iXWnHD-RtO1PaJuv_/view?usp=sharing)|
+| 2 | Data Literacy – What is it and why does it matter? | Courses | Artificial Intelligence and Machine Learning (AI/ML), Law, Regulation, and Compliance
+Algorithms, Data Ethics, Data Security, Data-Driven Decision-Making, Big Data, Personally Identifiable Information, Data Literacy, Journalism, Information Privacy| [Repository](https://coursera.org/share/3c5f51005754527cc1343137c404d703)|
+| 3 | Ethics of Artificial Intelligence | Course | Human Centered Design, Research | [Repository](https://coursera.org/share/c4b5b37658c56e4f7693e9edaf0c675e)|
+| 4 | AI & Law | Course | Innovation; Law, Regulation, and Compliance; Healthcare Industry Knowledge, Legal Research, Public Administration, Intellectual Property, Predictive Modeling, Labor Law, Criminal Investigation and Forensics, Artificial Intelligence, Legal Proceedings | [Repository](https://coursera.org/share/7c6e67689c0ad43887017c87304a0498)|
+| 5 | Technologies & platforms for Artificial Intelligence | Course | Artificial Intelligence and Machine Learning (AI/ML), Emerging Technologies, Information, Technology Architecture, Information Technology, Cloud Computing Architecture, Data Centers, Cloud Platforms, Artificial Intelligence, Application Development, Deep Learning, Internet Of Things, Embedded Systems | [Repository](https://coursera.org/share/eaf972825f0674500d5d9de139cfc812)|
+| 6 | Build a Historical Weather Data API  | Python | Weather API  | [Repository](https://github.com/kinanti18/app6-your-weather-api)|
+| 7 | Natural Language Processing of Books | Python | Book Analysis  | [Repository](https://github.com/kinanti18/app8-book-analysis)|
+| 8 | Build a Webcam Monitoring Email Alert App | Python | Webcam Monitoring | [Repository](https://github.com/kinanti18/app9-email-webcam-detection)|
+| 9 | Build a Music Event Web Scrapper | Python | Scrapping Tours SQL | [Repository](https://github.com/kinanti18/app10-scrapping-tours-sql)|
+| 10 | Build Hospital Management System | PHP | Management System | [Repository](https://github.com/kinanti18/HospitalManagementSystem)|
+| 11 | Build a Hotel Booking App | Python | OOP Style | [Repository](https://github.com/kinanti18/app11-hotel-booking.git)|
 
 
 
