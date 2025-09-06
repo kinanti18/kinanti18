@@ -63,7 +63,7 @@ Hi, Welcome to My Portofolio. I am a Fresh Graduate of Informatics with passion 
 | 14 | 2022 | July | AI Mastery Program | Certification | MSIB Kampus Merdeka Batch 2 with AI Mastery Project | [Certificate](https://drive.google.com/file/d/1ETxurUq14fOu7fjYqo5UcrHcgFbXPULO/view)|
 | 15 | 2022 | July | Data Scientist | Intern | Completing Data Scientist Virtual Internship Program from Home Credit Indonesia | [Certificate](https://drive.google.com/file/d/1_EDI91uoSrYC5WGa6Xgn4hUQcvTZFEhe/view)|
 | 16 | 2022 | March | Python, R, SQL | Mini Bootcamp | DQLab Online Mini Bootcamp Program | [Certificate](https://drive.google.com/file/d/1vUmYk6VBZuFsnalz_FfQSbVv0eREDk8t/view)|
-| 17 | 2021 | June | Campus Ambassador | Intern | Campus Ambassador Intern for International Model United Nations | [Repository][Certificate](https://drive.google.com/file/d/1sdGkJpEThkMNB5yWDTAt8uTF2aCqj9vd/view)|
+| 17 | 2021 | June | Campus Ambassador Intern for International Model United Nations | Intern | Campus Ambassador | [Repository]([Certificate])(https://drive.google.com/file/d/1sdGkJpEThkMNB5yWDTAt8uTF2aCqj9vd/view)|
 
 
 
