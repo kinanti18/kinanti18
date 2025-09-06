@@ -45,7 +45,7 @@ Hi, Welcome to My Portofolio. I am a Fresh Graduate of Informatics with passion 
 | 11 | Build a Hotel Booking App | Python | OOP Style | [Repository](https://github.com/kinanti18/app11-hotel-booking.git)|
 
 ## Bootcamps, Courses, Certifications & Additional Experience
-| No | Name | Category | Description | Link |
+| No | Year | Month | Name | Category | Description | Link |
 | --- |  --- | --- | --- | --- |
 | 1 | 2025 | August | JLPT N3 | Certification | Japanese Language Proficiency Test | [Certificate](https://drive.google.com/file/d/1xb-4busaFN1fe04iXWnHD-RtO1PaJuv_/view?usp=sharing)|
 | 2 | 2024 | April | Data Literacy – What is it and why does it matter? | Course | Artificial Intelligence and Machine Learning (AI/ML); Law, Regulation, and Compliance; Algorithms, Data Ethics, Data Security, Data-Driven Decision-Making, Big Data, Personally Identifiable Information, Data Literacy, Journalism, Information Privacy| [Certificate](https://coursera.org/share/3c5f51005754527cc1343137c404d703)|
